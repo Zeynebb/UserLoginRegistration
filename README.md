@@ -9,7 +9,7 @@ JavaCampDay5Homework
 > + E-Posta kontrolü yapıldı.
 > + Kullanıcı kaydından sonra doğrulama e-postası gönderimi yapıldı.
 > + Doğrulama linki kontrolü yapıldı.
-> + Hatalı veya Başarılı durumu kullanıcıya bildirildi.
+> + Hatalı veya Başarılı durumları kullanıcıya bildirildi.
 
 + Google servisi kullanılarak yapılan kullanıcı işlemleri: 
 
